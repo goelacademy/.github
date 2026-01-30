@@ -27,4 +27,4 @@ Goel Academy is a modern learning platform providing hands-on education in DevOp
 
 ---
 
-> Your DevOps journey starts here. Start learning at [goelacademy.dev](https://goelacademy.com)
+> Your DevOps journey starts here. Start learning at [goelacademy.com](https://goelacademy.com)
